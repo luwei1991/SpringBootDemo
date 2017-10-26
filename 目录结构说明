@@ -1,0 +1,4 @@
+eam.controller --controll层
+eam.dao --数据库操作层
+eam.domain --实体类
+eam.service --业务逻辑层
